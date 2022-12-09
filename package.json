@@ -24,7 +24,7 @@
     "d3-scale": "^2.2.2",
     "d3-selection": "^1.4.0",
     "ejs": "^2.6.1",
-    "express": "^4.16.3",
+    "express": "^4.17.3",
     "identity-obj-proxy": "^3.0.0",
     "lodash": "^4.17.11",
     "mongoose": "^5.4.17",
